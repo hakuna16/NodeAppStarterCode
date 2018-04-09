@@ -1,8 +1,7 @@
-Full Stack JS project
+# Full Stack JavaScript project
 
-1. Set Up
-
- Here we are doing it from the scratch.
+## Getting started
+## 1. Set Up
 
 Setting up the global Dependencies
 
@@ -15,7 +14,7 @@ c) npm install --save mongodb for connecting to mongo db
 d) npm install -S react react-dom for front end
 
 
-Setting up the Dev dependencyies
+## Setting up the Dev dependencyies
 
 1. npm install --save-dev webpack  for moduling the code
 
